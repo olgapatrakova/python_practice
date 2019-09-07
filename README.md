@@ -4,6 +4,28 @@ by Olga Patrakova
 
 Filename | Descirption
 -------- | -----------
+140_characters_long.py | Create news_ticker that is exactly 140 characters long
+check_for_prime_numbers.py | Check if each number is a prime number in a list and show an appropriate result
+count_fruits_in_basket.py | Counts only fruits in different baskets
+create_html_list.py | Create a single string which is an HTML list
+create_usernames.py | Create a usernames list
+director_with_most_oscar_wins.py | Provide a list with the name(s) of the director(s) with the most Oscar wins
+enumerate.py | Modify the cast so that each element contains the name followed by the character's corresponding height
+extract_first_names.py | Create first_names containing just the first names in lowercase
+factorials_with_for_loops.py | Use a for loop to find a factorial
+factorials_with_while_loops.py | Use a while loop to find a factorial
+filter_names_by_scores.py | Create a list of names that only include those that scored at least 65
+fruit_basket.py | Find the number of fruits in a basket
+fruits_and_other_items.py | Count fruits and other items in a basket
+keys_and_values_of_actors_dict.py | Show actors’ names and their roles
+modify_usernames_with_range.py | Create usernames with underscores
+oscar_wins_and_nominations.py | Count the Oscar nominations and wins for each director
+tag_counter.py | Count how many of tokens are XML tags
+tax_purchase.py | Assure that a purchase is taxed by the right amount
+unzip_tuples.py | Define names and heights, unzipping tuples
+which_prize_quiz.py | Having the number of points, define your prize
+zip_coordinates.py | Specify the label and coordinates of each point in a string
+zip_lists_to_dictionary.py | Create cast with names and heights for each corresponding name
 consecutive_run.py | Find the longest consecutive run of sequence of integers entered by a user
 copy_of_2Darray.py | Create a copy of an existing two-dimensional array a[][] if a[][] is rectangular
 copy_of_2Dragged.py | Create a two-dimentional array b[][] that is a copy of an existing two-dimentional array a[][] if a[][] is ragged
